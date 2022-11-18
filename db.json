@@ -1,0 +1,106 @@
+{
+  "cinema": [
+    {
+      "id": 1,
+      "name": "Adao Negro",
+      "descricao": "Um homem recebe os poderes dos sete deuses do Olimpo e vai em busca de vingança pelo seu povo escravizado",
+      "preco": 9.9,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Wakanda Forever",
+      "descricao": "Apos a morte do Rei T'Challa, a princesa Shuri precisa entender sua propria identidade para proteger seu povo",
+      "preco": 9.9,
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Avatar",
+      "descricao": "Apos treze anos de seu lancamento, James Cameron retorna para expandir o universo de Avatar",
+      "preco": 9.9,
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "name": "The Batman",
+      "descricao": "No inicio de sua carreira, Batman precisa resolver enigmas para salvar a cidade enquanto lida com a corrupcao dela",
+      "preco": 9.9,
+      "categoria_id": 1
+    }
+    
+  ],
+
+  "Horarios": [
+    {
+      "id": 1,
+      "hour": "13h"
+    },
+    {
+      "id": 2,
+      "hour": "14h"
+    },
+    {
+      "id": 3,
+      "hour": "15h"
+    },
+    {
+      "id": 4,
+      "hour": "16h"
+    }
+  ],
+
+  "lanches": [
+    {
+      "id": 1,
+      "name": "Pipoca M",
+      "descricao": "Pipoca media amanteigada",
+      "preco": 12.99
+    },
+    {
+      "id": 2,
+      "name": "Pipoca G",
+      "descricao": "Pipoca grande amanteigada",
+      "preco": 16.99
+    },
+    {
+      "id": 3,
+      "name": "Pipoca M doce",
+      "descricao": "Pipoca media caramelizada",
+      "preco": 13.99
+    },
+    {
+      "id": 4,
+      "name": "Pipoca G doce",
+      "descricao": "Pipoca grande caramelizada",
+      "preco": 19.99
+    },
+    {
+      "id": 5,
+      "name": "refrigerante",
+      "descricao": "Coca, 250ml",
+      "preco": 7.99
+    },
+    {
+      "id": 5,
+      "name": "suco",
+      "descricao": "Uva, 250ml",
+      "preco": 8.99
+    }
+  ],
+
+  "Descontos": [
+    {
+      "id": 1,
+      "criancas": "criancas ate 8 anos pagam meia"
+    },
+    {
+      "id": 2,
+      "estudantes": "estudante com comprovante da instituicao de ensino paga meia"
+    },
+    {
+      "id": 3,
+      "Idosos": "Apos os 65 anos, idosos recebem 20% de desconto no ingresso"
+    }
+  ]
+}
